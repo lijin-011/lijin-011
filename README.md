@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lijin Varghese
+- 👀 I’m interested in Artificial Intelligence and Machine Learning 
+- 📫 How to reach me https://www.instagram.com/_l._jin._/
