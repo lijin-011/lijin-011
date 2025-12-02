@@ -8,7 +8,7 @@
 
 <!-- FIXED MARQUEE (WIDE + NO CUTTING) -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=1200&color=A894FF&center=true&vCenter=true&width=950&height=60&lines=AI+Engineer+specialized+in+LLMs%2C+GNNs%2C+Multimodal+AI;Building+RAG+Systems%2C+Survival+Models%2C+Medical+AI+Pipelines;Turning+Research+into+Production+AI+Systems+%F0%9F%9A%80"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=1200&color=A894FF&center=true&vCenter=true&width=960&height=60&lines=AI+Engineer+specialized+in+LLMs%2C+GNNs%2C+Multimodal+AI;Building+RAG+Systems%2C+Survival+Models%2C+Medical+AI+Pipelines;Turning+Research+into+Production+AI+Systems+%F0%9F%9A%80"
 />
 
 </div>
@@ -17,7 +17,7 @@
 
 <!-- ================= ABOUT ME (CENTERED) ================= -->
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
 
 <td width="55%" valign="top" align="center">
@@ -52,24 +52,24 @@
   </a>
 </div>
 
-<br>
+<br><br>
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECH STACK (EQUAL TABLES) ================= -->
 
 <h2 align="center">🧩 Tech Stacks</h2>
 
 <div align="center">
 
-<table width="92%" style="border-spacing: 15px;">
+<table width="92%" style="border-spacing: 20px; table-layout: fixed;">
 
 <tr>
 
 <!-- ===================== ML / AI STACK ===================== -->
-<td width="48%" valign="top" style="border-radius:12px; padding:18px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
+<td valign="top" style="width:50%; border-radius:12px; padding:20px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
 
 <h3 align="center">🧠 Machine Learning & AI</h3>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42"/><br>Python</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="42"/><br>PyTorch</td>
@@ -90,7 +90,7 @@
 
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/><br>ML APIs</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br>Experiment Mgmt</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br>Exp Mgmt</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="42"/><br>Edge AI</td>
 </tr>
 
@@ -98,12 +98,13 @@
 
 </td>
 
+
 <!-- ===================== ENGINEERING STACK ===================== -->
-<td width="48%" valign="top" style="border-radius:12px; padding:18px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
+<td valign="top" style="width:50%; border-radius:12px; padding:20px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
 
 <h3 align="center">🛠 Engineering & Development</h3>
 
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42"/><br>Docker</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42"/><br>Git</td>
@@ -125,7 +126,7 @@
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br>HTML</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br>JS</td>
 </tr>
 
 </table>
@@ -135,5 +136,74 @@
 </tr>
 
 </table>
+
+</div>
+
+<br><br>
+
+<!-- ================= FEATURED PROJECTS ================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table width="92%" style="border-spacing: 20px; table-layout: fixed;">
+
+<tr>
+<td align="center" style="background:rgba(255,255,255,0.05); padding:20px; border-radius:12px;">
+<h3>🧠 Multimodal Stress Detection</h3>
+Real-time Facial + Voice Emotion Recognition    
+</td>
+
+<td align="center" style="background:rgba(255,255,255,0.05); padding:20px; border-radius:12px;">
+<h3>🏥 Sarcoidosis Medical LLM</h3>
+PubMed/PMC powered, clinical LLM  
+For domain-specific medical responses  
+</td>
+</tr>
+
+<tr>
+<td align="center" style="background:rgba(255,255,255,0.05); padding:20px; border-radius:12px;">
+<h3>📈 GNN Survival Model</h3>
+Graph-based survival prediction for clinical datasets  
+</td>
+
+<td align="center" style="background:rgba(255,255,255,0.05); padding:20px; border-radius:12px;">
+<h3>🚌 RFID Bus Tracking App</h3>
+Flutter + OpenStreetMap, RFID auto-attendance  
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br><br>
+
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+<h2 align="center">🎯 Currently Focusing On</h2>
+
+<div align="center">
+
+- Clinical LLM research  
+- Building domain-specific knowledge graphs    
+- Multimodal learning systems  
+- Advanced RAG architectures  
+
+</div>
+
+<br><br>
+
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">📬 Contact</h2>
+
+<div align="center">
+
+📧 **Email:** lijinvarghese01@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/lijin-varghese  
+🌐 **Portfolio:** https://portfolio-one-beta-49.vercel.app  
 
 </div>
