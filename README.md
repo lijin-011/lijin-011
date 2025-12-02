@@ -143,9 +143,9 @@
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
-<div align="center">
+<div align="left">
 
 <table width="92%" style="border-spacing: 20px; table-layout: fixed;">
 
@@ -183,9 +183,9 @@ Flutter + OpenStreetMap, RFID auto-attendance
 
 <!-- ================= CURRENT FOCUS ================= -->
 
-<h2 align="center">🎯 Currently Focusing On</h2>
+<h2 align="left">🎯 Currently Focusing On</h2>
 
-<div align="center">
+<div align="left">
 
 - Clinical LLM research  
 - Building domain-specific knowledge graphs    
@@ -198,9 +198,9 @@ Flutter + OpenStreetMap, RFID auto-attendance
 
 <!-- ================= CONTACT ================= -->
 
-<h2 align="center">📬 Contact</h2>
+<h2 align="left">📬 Contact</h2>
 
-<div align="center">
+<div align="left">
 
 📧 **Email:** lijinvarghese01@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/lijin-varghese  
