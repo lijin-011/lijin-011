@@ -1,43 +1,73 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#8A7CFF">Lijin Varghese</span></h1>
-<h3 align="center">AI Engineer • Machine Learning & Data Science • Full Stack Developer • Prompt Engineer</h3>
+<!-- ================= HEADER ================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=8A7CFF&center=true&vCenter=true&width=650&lines=AI+Engineer+specialized+in+ML%2C+LLMs%2C+GNNs;Building+Multimodal+AI+%7C+RAG+Systems+%7C+Medical+Models;Turning+Research+into+Real+Products+%E2%9A%A1" />
+
+<h1>Hi 👋, I'm <span style="color:#8A7CFF;">Lijin Varghese</span></h1>
+
+<h3>AI Engineer • Machine Learning • LLMs • Data Science • Full Stack Developer</h3>
+
+<!-- FIXED MARQUEE (WIDE + NO CUTTING) -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=1200&color=A894FF&center=true&vCenter=true&width=950&height=60&lines=AI+Engineer+specialized+in+LLMs%2C+GNNs%2C+Multimodal+AI;Building+RAG+Systems%2C+Survival+Models%2C+Medical+AI+Pipelines;Turning+Research+into+Production+AI+Systems+%F0%9F%9A%80"
+/>
+
 </div>
 
-<table>
+<br>
+
+<!-- ================= ABOUT ME (CENTERED) ================= -->
+
+<table align="center" width="90%">
 <tr>
-<td width="60%" valign="top">
+
+<td width="55%" valign="top" align="center">
 
 <h2>👨‍💼 About Me</h2>
 
-- AI Engineer specialized in **LLMs, Multimodal AI, GNNs & Medical AI**  
-- Building **RAG systems**, **survival models**, and **stress detection pipelines**  
-- Strong in **Deep Learning, Data Science, ML Engineering, and Research Automation**  
-- Interested in **domain-specific LLMs**, **real-time inference**, and **healthcare AI**
+<div align="center">
+
+- AI Engineer focused on **LLMs, Multimodal AI, GNNs & Medical AI**  
+- Experienced in **RAG pipelines, Deep Learning, Clinical ML research**  
+- Building scalable **AI systems**, **research automation tools**, and **medical AI models**  
+- Passionate about **LLM tuning**, domain AI, and impactful real-world ML  
+
+</div>
 
 </td>
 
-<td width="40%" align="center">
-  
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" />
-
+<td width="45%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" />
 </td>
+
 </tr>
 </table>
 
+<br>
 
-## 🧠 Skills  
+<!-- ================= RESUME BUTTON ================= -->
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/17VpQW2LAbb-1u1MUo3U4WSF2b5YC2zvZ/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20My%20Resume-8A7CFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Button"/>
+  </a>
+</div>
+
+<br>
+
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🧩 Tech Stacks</h2>
+
 <div align="center">
 
-<table width="90%" style="border-spacing:20px;">
+<table width="92%" style="border-spacing: 15px;">
 
 <tr>
 
-<!-- ===================== ML / AI Stack ===================== -->
-<td width="48%" valign="top" style="border-radius:14px; padding:18px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.18);">
+<!-- ===================== ML / AI STACK ===================== -->
+<td width="48%" valign="top" style="border-radius:12px; padding:18px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
 
-<h3 align="left">🧠 Machine Learning & AI</h3>
+<h3 align="center">🧠 Machine Learning & AI</h3>
 
 <table width="100%">
 <tr>
@@ -54,23 +84,24 @@
 
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=huggingface" width="42"/><br>Transformers</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" width="42"/><br>GNNs</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="42"/><br>GNNs</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br>Jupyter</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/><br>ML API</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/><br>ML APIs</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br>Experiment Mgmt</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="42"/><br>Edge AI</td>
 </tr>
+
 </table>
 
 </td>
 
 <!-- ===================== ENGINEERING STACK ===================== -->
-<td width="48%" valign="top" style="border-radius:14px; padding:18px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.18);">
+<td width="48%" valign="top" style="border-radius:12px; padding:18px; background:rgba(255,255,255,0.05); border:1px solid rgba(255,255,255,0.08);">
 
-<h3 align="left">🛠 Engineering & Development</h3>
+<h3 align="center">🛠 Engineering & Development</h3>
 
 <table width="100%">
 <tr>
@@ -94,45 +125,15 @@
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br>HTML</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br>JS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br>JavaScript</td>
 </tr>
+
 </table>
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-- 🧠 **Multimodal Stress Detection** — Facial + audio emotion recognition using GPU  
-- 🏥 **Sarcoidosis Medical LLM** — PubMed-backed domain LLM for clinicians  
-- 📈 **GNN Survival Models** — Clinical survival prediction using graph embeddings  
-- 🚌 **School Bus & RFID Attendance App** — Flutter + OpenStreetMap + Real-time GPS  
-- ⚡ **NEV Fault Prediction (EV/Hybrid)** — Predictive maintenance for new-energy vehicles  
-
----
-
-## 🎨 Mini Visual Break
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/lijin-varghese"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=A394FF&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%9A%80" />
-</p>
-
-<p align="center"><b>Made with ❤️ + ☕ + GPU hours</b></p>
