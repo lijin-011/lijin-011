@@ -1,83 +1,119 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#6C63FF;">Lijin Varghese</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#7C5CFF">Lijin Varghese</span></h1>
 <h3 align="center">AI Engineer | Machine Learning & Data Science | Full Stack Developer | Prompt Engineer</h3>
 
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+ML+%26+Deep+Learning+Developer;Full+Stack+Developer+%7C+GenAI+%7C+LLMs;I+Build+Intelligent+%26+Impactful+AI+Systems" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=7C5CFF&center=true&width=680&lines=Multimodal+AI+%7C+RAG+%7C+GNN+Survival+Models;Medical+LLMs+%7C+Real-time+Inference" alt="typing"/>
 </div>
 
 ---
 
+## 🔭 About Me
+- Currently working on **RAG / LLM systems, GNN survival models, and medical image analysis**.  
+- Open to collaborations on **AI/ML, GenAI, and system-level ML projects**.  
+- Portfolio: https://portfolio-one-beta-49.vercel.app/  
+- Resume: https://drive.google.com/file/d/17VpQW2LAbb-1u1MUo3U4WSF2b5YC2zvZ/view?usp=drive_link  
+- Reach me: **lijinvarghese01@gmail.com**
+
+---
+
+## 🎨 Visual Snippet
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lijin-011&label=Profile+Visitors&color=6C63FF&style=flat" />
-</p>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=lijin-011&theme=algolia&no-bg=true&no-frame=true&margin-w=20&margin-h=20" />
-</a> 
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="560" alt="code animation"/>
 </p>
 
 ---
 
-## 🚀 **About Me**
+## 🧰 Languages & Tools — Grid (ML tools emphasized)
+Below is a compact, mixed grid: left column shows **core ML / research** tools (highlighted), right column shows **engineering & frontend/back-end** tools. Icons use Skillicons and vector logos — they render well in GitHub READMEs.
 
-- 🔭 Currently working on **RAG/LLM Systems, GNN Survival Models, Medical Image Analysis**
-- 🤝 Open to collaborate on **AI/ML, GenAI, LLM Projects**
-- 🌐 My Portfolio: **https://portfolio-one-beta-49.vercel.app/**
-- 📫 Reach Me: **lijinvarghese01@gmail.com**
-- 📄 My Resume:  
-  https://drive.google.com/file/d/17VpQW2LAbb-1u1MUo3U4WSF2b5YC2zvZ/view?usp=drive_link
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="left">🧠 Machine Learning & Research (Primary)</h4>
+      <table>
+        <tr>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=python" width="48" alt="python"/><div>Python</div></td>
+          <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" alt="pytorch"/><div>PyTorch</div></td>
+          <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" alt="tf"/><div>TensorFlow</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" alt="sklearn"/><div>scikit-learn</div></td>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=transformers" width="48" alt="transformers"/><div>Transformers</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/lanpa/tensorboard/master/docs/images/logo_transparent.png" width="48" alt="tensorboard"/><div>TensorBoard</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="opencv"/><div>OpenCV</div></td>
+          <td align="center" width="80"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" alt="seaborn"/><div>Seaborn</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/round-logos/1024x1024.png" width="48" alt="jupyter"/><div>Jupyter</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/allenai/allennlp/master/docs/images/allennlp-logo.svg" width="48" alt="allennlp"/><div>NLP Tooling</div></td>
+          <td align="center" width="80"><img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="48" alt="langchain"/><div>LangChain / LlamaIndex</div></td>
+          <td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Graph_Neural_Network_Icon.svg/1200px-Graph_Neural_Network_Icon.svg.png" width="48" alt="gnn"/><div>GNNs</div></td>
+        </tr>
+      </table>
+    </td>
+
+    <td valign="top" width="50%">
+      <h4 align="left">🔧 Engineering & Dev Tools (Secondary)</h4>
+      <table>
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" alt="docker"/><div>Docker</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" alt="git"/><div>Git</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" alt="linux"/><div>Linux</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" alt="node"/><div>Node.js</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" alt="react"/><div>React</div></td>
+          <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" alt="express"/><div>FastAPI / Flask</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" alt="mongodb"/><div>MongoDB</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="mysql"/><div>MySQL</div></td>
+          <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" alt="figma"/><div>Figma</div></td>
+        </tr>
+        <tr>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="java"/><div>Java</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="html"/><div>HTML/CSS</div></td>
+          <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="js"/><div>JavaScript</div></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Tip:** ML & research tools are placed intentionally first and visually grouped for quick scanning.
 
 ---
 
-## 🔗 **Connect with Me**
-<p align="left">
-<a href="https://linkedin.com/in/lijin-varghese" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/lijin varghese" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
+## 🚀 Selected Projects
+- **Multimodal Stress Detection** — Real-time facial + speech emotion recognition (GPU-optimized).  
+- **Sarcoidosis Medical LLM** — Domain-aware LLM with PubMed/PMC integration for evidence-backed responses.  
+- **GNN Survival Models** — Graph encodings + survival analysis for clinical datasets.  
+- **School Bus Tracking & RFID Attendance** — Flutter app with OSM and in-app notifications.
 
 ---
 
-## ⚒️ **Languages & Tools**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,flask,html,css,mysql,mongodb,linux,git,docker,tensorflow,pytorch,opencv,figma&theme=dark" />
-</p>
+## 📚 Research & Pipelines
+- Full-text extraction using **E-utilities**, **OAI-PMH**, **BioC** for PMC articles.  
+- PubMed pipelines with retries, failure logging, and PDF handling.  
+- Data cleaning, chunking, and transformer fine-tuning pipelines for domain LLMs.
 
 ---
 
-## 📊 **GitHub Analytics**
+## ✉️ Contact & Links
+- Email: **lijinvarghese01@gmail.com**  
+- Portfolio: https://portfolio-one-beta-49.vercel.app/  
+- Resume: https://drive.google.com/file/d/17VpQW2LAbb-1u1MUo3U4WSF2b5YC2zvZ/view?usp=drive_link  
+- LinkedIn: https://linkedin.com/in/lijin-varghese
 
+---
+
+## 🧩 Closing (small animation)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lijin-011&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lijin-011&show_icons=true&locale=en&theme=tokyonight" height="180" />
+  <img src="https://camo.githubusercontent.com/ff8e4f5b2ad7b8f5b8a1b8f20b9587aaec3f6f1f8b2f1ce1d6f0f2b4d4a8b5d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d467269612b436f6465267765696768743d3435302663696e743d7472756526746578743d53746179696e672e2e2e" width="420" alt="typing small"/>
 </p>
 
 ---
 
-## 🐍 **Contribution Snake Animation**
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🎨 **Aesthetic Code Animation**
-<p align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
-</p>
-
----
-
-## ✨ **Final Note**
-
-<h3 align="center">⭐ If you like my projects, consider giving them a star!</h3>
-<h4 align="center">Made with ❤️, ☕ and endless debugging.</h4>
+Made with ❤️ & ☕ — feel free to ask if you want a **neon / cyberpunk** variant, a **minimal CV** style, or a **one-page portfolio** README derived from this.
