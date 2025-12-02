@@ -16,76 +16,132 @@
 
 ---
 
-## 🧠 ML-Focused Skill Grid  
-### **Highlighter: Left = Core ML/AI | Right = Engineering Tools**
+## 🧠 Skills  
+<div align="center">
 
-<table>
+<table width="90%" style="border-spacing:25px;">
+
 <tr>
-<td width="50%" valign="top">
 
-<h3 align="left">🧠 Core Machine Learning & AI Stack</h3>
+<!-- ===================== ML / AI Stack ===================== -->
+<td width="48%" valign="top" style="border-radius:18px; padding:20px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.15);">
 
-<table>
+<h3 align="left">🧠 Machine Learning & AI</h3>
+
+<table width="100%">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/><br>PyTorch</td>
-<td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>TensorFlow</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/><br>PyTorch
+</td>
+<td align="center">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>TensorFlow
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-Learn</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/><br>Data Prep</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-Learn
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV
+</td>
+<td align="center">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/><br>Seaborn
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="45"/><br>LangChain</td>
-<td align="center"><img src="https://seeklogo.com/images/H/hugging-face-logo-B9793F5654-seeklogo.com.png" width="45"/><br>HF Transformers</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Graph_Neural_Network_Icon.svg/768px-Graph_Neural_Network_Icon.svg.png" width="45"/><br>GNNs</td>
+<td align="center">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="45"/><br>Transformers
+</td>
+<td align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/network-4.svg" width="45"/><br>GNNs
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rounded-square/jupyter-rounded-square.svg" width="45"/><br>Jupyter
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/><br>Seaborn</td>
-<td align="center"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rounded-square/jupyter-rounded-square.svg" width="45"/><br>Jupyter</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>DL Frameworks</td>
+<td align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="45"/><br>LangChain
+</td>
+<td align="center">
+  <img src="https://seeklogo.com/images/H/hugging-face-logo-B9793F5654-seeklogo.com.png" width="45"/><br>HF Ecosystem
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>Deep Learning
+</td>
 </tr>
+
 </table>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- ===================== ENGINEERING STACK ===================== -->
+<td width="48%" valign="top" style="border-radius:18px; padding:20px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.15);">
 
-<h3 align="left">🛠️ Engineering, Backend & Frontend</h3>
+<h3 align="left">🛠 Engineering & Development</h3>
 
-<table>
+<table width="100%">
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>Git</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>Git
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
+</td>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
+</td>
 </tr>
+
 </table>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
