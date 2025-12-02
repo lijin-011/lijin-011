@@ -5,139 +5,101 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1100&color=8A7CFF&center=true&vCenter=true&width=650&lines=AI+Engineer+specialized+in+ML%2C+LLMs%2C+GNNs;Building+Multimodal+AI+%7C+RAG+Systems+%7C+Medical+Models;Turning+Research+into+Real+Products+%E2%9A%A1" />
 </div>
 
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## 🌟 About Me  
-- Working on **LLM/RAG Systems**, **GNN Survival Models**, **Real-time AI**, and **Medical Image Analysis**  
-- Collaborating on **AI/ML**, **GenAI**, **NLP**, **LLMs**, **DL Systems**, and applied ML projects  
-- Portfolio → https://portfolio-one-beta-49.vercel.app/  
-- Email → **lijinvarghese01@gmail.com**  
-- Resume → [Click to view](https://drive.google.com/file/d/17VpQW2LAbb-1u1MUo3U4WSF2b5YC2zvZ/view?usp=drive_link)
+<h2>👨‍💼 About Me</h2>
 
----
+- AI Engineer specialized in **LLMs, Multimodal AI, GNNs & Medical AI**  
+- Building **RAG systems**, **survival models**, and **stress detection pipelines**  
+- Strong in **Deep Learning, Data Science, ML Engineering, and Research Automation**  
+- Interested in **domain-specific LLMs**, **real-time inference**, and **healthcare AI**
+
+</td>
+
+<td width="40%" align="center">
+  
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" />
+
+</td>
+</tr>
+</table>
+
 
 ## 🧠 Skills  
 <div align="center">
 
-<table width="90%" style="border-spacing:25px;">
+<table width="90%" style="border-spacing:20px;">
 
 <tr>
 
 <!-- ===================== ML / AI Stack ===================== -->
-<td width="48%" valign="top" style="border-radius:18px; padding:20px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.15);">
+<td width="48%" valign="top" style="border-radius:14px; padding:18px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.18);">
 
 <h3 align="left">🧠 Machine Learning & AI</h3>
 
 <table width="100%">
 <tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
-</td>
-<td align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/><br>PyTorch
-</td>
-<td align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/><br>TensorFlow
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="42"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="42"/><br>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="42"/><br>TensorFlow</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br>Scikit-Learn
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=opencv" width="45"/><br>OpenCV
-</td>
-<td align="center">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/><br>Seaborn
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" width="42"/><br>Sklearn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="42"/><br>OpenCV</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=seaborn" width="42"/><br>Seaborn</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="45"/><br>Transformers
-</td>
-<td align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/network-4.svg" width="45"/><br>GNNs
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rounded-square/jupyter-rounded-square.svg" width="45"/><br>Jupyter
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=huggingface" width="42"/><br>Transformers</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" width="42"/><br>GNNs</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br>Jupyter</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="45"/><br>LangChain
-</td>
-<td align="center">
-  <img src="https://seeklogo.com/images/H/hugging-face-logo-B9793F5654-seeklogo.com.png" width="45"/><br>HF Ecosystem
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>Deep Learning
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/><br>ML API</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br>Experiment Mgmt</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="42"/><br>Edge AI</td>
 </tr>
-
 </table>
 
 </td>
 
 <!-- ===================== ENGINEERING STACK ===================== -->
-<td width="48%" valign="top" style="border-radius:18px; padding:20px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.15);">
+<td width="48%" valign="top" style="border-radius:14px; padding:18px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.18);">
 
 <h3 align="left">🛠 Engineering & Development</h3>
 
 <table width="100%">
 <tr>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br>Docker
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br>Git
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br>Linux
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="42"/><br>Linux</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="45"/><br>FastAPI
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/><br>FastAPI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="42"/><br>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>NodeJS</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/><br>MySQL
-</td>
-<td align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br>MongoDB
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="42"/><br>MongoDB</td>
 </tr>
 
 <tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript
-</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42"/><br>JS</td>
 </tr>
-
 </table>
 
 </td>
+
 </tr>
 </table>
 
