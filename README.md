@@ -24,7 +24,7 @@
 
 <h2>👨‍💼 About Me</h2>
 
-<div align="center">
+<div align="justify">
 
 - AI Engineer focused on **LLMs, Multimodal AI, GNNs & Medical AI**  
 - Experienced in **RAG pipelines, Deep Learning, Clinical ML research**  
